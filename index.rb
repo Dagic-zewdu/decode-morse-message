@@ -41,13 +41,6 @@ def decode_word(word)
   return @new_word
 end
 
-def decode_morse(message)
-   @decoded_message=''
-    words=message.split("   ")
-     words.each do |word|
-        @decoded_message+=decode_word(word)
-     end
-    return @decoded_message
-end
+
 
 puts decode_morse(' .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
