@@ -1,3 +1,43 @@
-# Decode-morse-message
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in Morse code. Your curiosity grows even more - maybe you just found the lost treasure of the pirates! However, you are getting tired of decrypting messages manually. Fortunately, you can program in Ruby and you can help yourself by automating this process.
+# Morse code Decoder
+
+A simple project written in Ruby that decodes the Morse code
+
+## Getting Started
+
+\*\*Please follow the steps below to setup this project in your local computer
+
+### Prerequisites
+
+A basic understanding of Ruby and Git
+
+### Usage
+
+1. Install Ruby
+2. Clone this repo `https://github.com/Dagic-zewdu/decode-morse-message.git`
+3. Inside the `index.rb` file there is a method `decode_message`. Pass your morse code as a parameter in this method like so: `decode_message('.- -... --- -..- ..-. ..- .-.. .-.. --- ..-. .-. ..- -... .. . ...')`
+
+## Authors
+
+👤 **Temitope Ogunleye**
+
+- GitHub: [@topeogunleye](https://github.com/topeogunleye)
+- Twitter: [@tope_leye](https://twitter.com/tope_leye)
+- LinkedIn: [ogunleye](https://linkedin.com/in/ogunleye)
+
+  👤 **Dagic-zewdu**
+
+- GitHub: [Github](https://github.com/Dagic-zewdu)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/dagic-zewdu/)
+- Twitter: [Twitter](https://twitter.com/dagic4)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/rtonata88/decode-morse-code/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
